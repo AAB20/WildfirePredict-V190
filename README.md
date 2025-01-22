@@ -16,5 +16,7 @@ WildfirePredict V190 is an AI-driven system designed for accurate wildfire predi
 ## connect 
 
 EMAIL:ytigfh28@gmail.com
+
 tel:+9647730962066
+
 by:ABDULLAH ALI BAHAALDEEN
