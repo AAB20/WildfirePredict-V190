@@ -11,7 +11,7 @@ WildfirePredict V190 is an AI-driven system designed for accurate wildfire predi
 
 
  ## For more 
- For more please read the research paper
+ For more please read the research paper , AND see the 001.jpg 
 
 ## connect 
 
